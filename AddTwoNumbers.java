@@ -10,3 +10,4 @@ int input2=sc.nextInt();
 System.out.print("Sum: "+ (input1+input2));
     }
 }
+
