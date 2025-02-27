@@ -13,6 +13,6 @@ public class CircleArea {
 
         System.out.printf("The area of the circle with radius %.2f is: %.2f%n", radius, area);
 
-      
+
     }
 }
